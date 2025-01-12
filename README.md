@@ -40,9 +40,9 @@ Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspi
 ---
 
 ## 📚 **Tools & Technologies I'm Learning**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+<p>
+  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"> <img src="https://img.shields.io/badge/-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"> <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="30">
+</p>
 
 ---
 
