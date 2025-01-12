@@ -46,4 +46,5 @@ Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspi
 
 ---
 
-Feel free to connect and collaborate! Let's build something amazing together! ✨  
+Feel free to connect! ✨  
+[Email](brdaniel10483@gmail.com)
