@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟  
 
-Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspiring software engineer by night. With a passion for technology, I'm pursuing a degree in computer science with a focus on cybersecurity. My journey is all about continuous learning and building meaningful projects.  
+Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspiring software engineer by night. With a passion for technology, I'm pursuing a computer science degree focusing on cybersecurity. My journey is all about continuous learning and building meaningful projects.  
 
 ---
 
@@ -16,7 +16,7 @@ Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspi
 - **Programming Languages:** Python, Java  
 - **Software Development:** Data structures, algorithms (e.g., Dijkstra's), object-oriented programming  
 - **Quality Assurance:** Expertise in produce standards and testing  
-- **Emerging Interests:** Cloud computing, video game development, and software engineering  
+- **Emerging Interests:** Cloud computing, backend development, and software engineering  
 
 ---
 
@@ -41,7 +41,7 @@ Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspi
 
 ## 📚 **Tools & Technologies I'm Learning**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" />
 </p>
 
 ---
