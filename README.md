@@ -37,11 +37,12 @@ Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspi
 
 ---
 
-## 🥅 **Goals**  
-1. Master SQL and database management systems.  
-2. Learn React and integrate it with Python for web applications.  
-3. Deepen understanding of cloud computing and deployment strategies.  
-4. Build a portfolio showcasing cybersecurity and software engineering projects.  
+🥅 Goals  
+- Build a strong portfolio of Python scripting projects geared toward freelance and entry-level opportunities.  
+- Learn and apply practical web scraping, automation, and API integration techniques.  
+- Gain hands-on experience with Git, version control, and project documentation.  
+- Deepen understanding of cybersecurity principles and secure coding practices.  
+- Continue exploring deployment and lightweight cloud tools for small-scale applications.  
 
 ---
 
