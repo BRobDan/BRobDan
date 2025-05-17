@@ -21,7 +21,7 @@ Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspi
 ---
 
 ## 🚀 **Current Projects**  
-- [Simple Budget App (completed)](https://github.com/BRobDan/simple-budget-app) *Java, JavaFX, Maven*  
+- [Simple Budget App (completed)](https://github.com/BRobDan/budget-project) *Java, JavaFX, Maven*  
   A desktop app that tracks income and expenses with data persistence and basic charts.
 - [Web Authentication API (in progress)](https://github.com/BRobDan/web_authenticator) *Python, Flask*  
   A RESTful API with JWT-based login and registration endpoints, built for secure web authentication.
