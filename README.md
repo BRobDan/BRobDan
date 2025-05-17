@@ -53,6 +53,6 @@ Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspi
 
 ---
 
-📧 **Email:** [brdaniel10483@gmail.com](mailto:brdaniel10483@gmail.com)
+📧 **Email:** [brobdaniel.dev@gmail.com](mailto:brobdaniel.dev@gmail.com)
 
 Feel free to connect! ✨  
