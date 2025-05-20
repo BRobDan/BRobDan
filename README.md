@@ -25,9 +25,8 @@ Hello! I'm a Quality Assurance Inspector at ADUSA (Food Lion) by day and an aspi
   A desktop app that tracks income and expenses with data persistence and basic charts.
 - [Web Authentication API (in progress)](https://github.com/BRobDan/web_authenticator) *Python, Flask*  
   A RESTful API with JWT-based login and registration endpoints, built for secure web authentication.
-- [Web Scraper Script (in progress)](https://github.com/BRobDan/book_scraper) *Python, BeautifulSoup*  
-  A lightweight script that scrapes book titles, prices, and availability from [Books to Scrape](https://books.toscrape.com).
-  Designed with clean code and extensibility in mind.
+- [Web Scraper Scripts (in progress)](https://github.com/BRobDan/python_scrapers) *Python, BeautifulSoup*  
+  A place for all my web scraping scripts. Currently for practicing only.
 
 ---
 
